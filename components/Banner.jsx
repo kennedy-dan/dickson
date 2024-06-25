@@ -2,7 +2,7 @@ import React from "react";
 
 const Banner = () => {
   return (
-    <div className="bg-[#030c0f] text-white text-[10px] flex items-center md:justify-around justify-between lg:px-20 px-4 py-10 mt-32">
+    <div className="bg-[#030c0f] text-white text-[10px] flex items-center md:justify-around justify-between w-full lg:px-20 px-4 py-10 mt-32">
       <div className="md:flex space-x-1 items-center ">
       <img src="/powerbi.png" alt='' className="lg:w-20 lg:h-20 w-5 h-5 object-contain" />
        
@@ -34,7 +34,7 @@ const Banner = () => {
 
         <p className='md:block hidden'>azure synapse analytics</p>
       </div>
-      <div className="grid grid-cols-4 gap-3"></div>
+      {/* <div className="grid grid-cols-4 gap-3"></div> */}
     </div>
   );
 };

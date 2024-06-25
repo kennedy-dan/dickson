@@ -20,7 +20,7 @@ const Services = () => {
           </p> */}
         </div>
       </div>
-      <div className="grid lg:grid-cols-4 md:grid-cols-3 grid-cols-1 gap-4 mt-16">
+      <div className="grid lg:grid-cols-4 md:grid-cols-3 grid-cols-1 gap-4 mt-8">
         <div class=" bg-gradient-to-r text-white text-center pt-6 pb-8 px-2  from-gray-900 to-slate-950 mb-4">
           <div className="flex justify-center pb-2">
             <MdDataExploration className="w-12 h-12 text-[#36a2c6]" />

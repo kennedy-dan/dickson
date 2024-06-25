@@ -26,7 +26,7 @@ const Hero = () => {
           wealth of expertise in crafting cutting-edge solutions
           <br /> at the intersection of technology and business strategy.
         </p>
-        <div className="flex mt-4 text-[#36a2c6]">
+        <div className="flex md:justify-start  justify-center mt-4 text-[#36a2c6]">
           <div>
             <BsTwitterX />
           </div>

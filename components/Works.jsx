@@ -102,13 +102,13 @@ const Works = () => {
           {/* <p className="text-white mt-3 mb-2 text-xl">
             What I <span className="text-[#36a2c6]">Do</span>
           </p> */}
-          <p className="text-gray-600 text-sm">
+          {/* <p className="text-gray-600 text-sm">
             Criativo – Creative Agency & Portfolio Created Especially For Agency
             Business, Agency, Agency Portfolio, Agency{" "}
-          </p>
+          </p> */}
         </div>
       </div>
-      <div className="grid md:grid-cols-2 gap-1 ">
+      <div className="grid md:grid-cols-2 gap-1 mt-8 ">
         {projects.map((project, index) => (
           <Card
             key={index}
