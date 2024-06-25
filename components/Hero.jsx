@@ -17,7 +17,7 @@ const Hero = () => {
       </div>
       <div className="md:ml-5 md:mt-0 mt-10 md:text-left text-center ">
         <p className="text-[#36a2c6]">About Me</p>
-        <p className="text-white text-2xl">Hello, I'm Daniel</p>
+        <p className="text-white text-2xl">Hello, I Am Daniel</p>
         <p className="text-[#36a2c6] text-2xl underline underline-offset-[10px]">
           Dickson
         </p>
