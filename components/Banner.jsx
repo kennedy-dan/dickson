@@ -15,13 +15,14 @@ const Banner = () => {
       </div>
 
       <div className="md:flex space-x-1 items-center ">
-        <img src="/datalake.png " alt='' className="lg:w-20 lg:h-20 w-9 h-9 object-contain" />
+        <img src="/datalake.jpg " alt='' className="lg:w-20 lg:h-20 w-9 h-9 object-contain" />
 
-        <p className='md:block hidden'>Data Lake</p>
+        <p className='md:block hidden'>Azure Data Factory</p>
 
       </div>
-      <div>
-        <img src="/sql.png" alt='' className="lg:w-20 lg:h-20 w-9 h-9 object-contain" />
+      <div className="md:flex space-x-1 items-center ">
+        <img src="/sql.jpg" alt='' className="lg:w-20 lg:h-20 w-9 h-9 object-contain" />
+        <p className='md:block hidden'>MSSQL Server</p>
       </div>
       <div className="md:flex space-x-1 items-center ">
         <img src="/bricks.png" alt='' className="lg:w-20 lg:h-20 w-9 h-9 object-contain" />

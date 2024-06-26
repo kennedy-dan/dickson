@@ -84,7 +84,7 @@ const Works = () => {
 
     },
     {
-      image: "/bim.png",
+      image: "/bim.jpg",
       info: "End to end implementation of Business intelligence solution ",
       desc: "including building of an EDW leveraging on Azure technologies and data bricks. Worked on integration of various ERPs like Zoho Helpdesk, MS Dynamics (Nav 17) and server monitoring application (Ops Manager) with Azure data lake.",
     },
